@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Node.cpp
+  Tree.cpp
+C:\Users\xman1\source\repos\Calculator\Calculator\source\Tree.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xman1\source\repos\Calculator\Calculator\source\Tree.cpp(103,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Calculator.vcxproj -> C:\Users\xman1\source\repos\Calculator\Debug\Calculator.exe
